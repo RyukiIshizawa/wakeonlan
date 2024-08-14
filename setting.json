@@ -1,5 +1,6 @@
 {
     "execution_delay": 120,
+    "max_retry": 10,
     "mac_addresses": [
         "00-00-00-00-00-00"
     ]
